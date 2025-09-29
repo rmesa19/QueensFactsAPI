@@ -183,7 +183,7 @@ export default function QueensFactsPage() {
           <div className="mt-12 text-center">
             <div className="inline-block bg-white bg-opacity-20 backdrop-blur-sm rounded-full p-1">
               <MapPin className="inline text-yellow-300 w-5 h-5" />
-              <span className="ml-2 font-medium text-black dark:text-white pr-2">
+              <span className="ml-2 font-medium text-black dark:text-black pr-2">
                 Queens, New York
               </span>
             </div>
